@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.ProfileFragmentImg">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mustafa Orhan"
+        android:layout_marginTop="150dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mustafa Akdoğan"
+        android:layout_marginTop="175dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Asım Samet Başkaya"
+        android:layout_marginTop="200dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hüseyin Şeyh Ahmed"
+        android:layout_marginTop="225dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mehmet Berat Can"
+        android:layout_marginTop="250dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ana Menü"
+        android:layout_marginTop="300dp"
+        android:layout_gravity="center_horizontal"/>
+
+</FrameLayout>
